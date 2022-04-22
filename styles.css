@@ -232,8 +232,3 @@ body{
 		font-size: 24px;
 	}
 }
-
-@media print {
-	.menu {display: none}
-	.footer {display: none}
-}
